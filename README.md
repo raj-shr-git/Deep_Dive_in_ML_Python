@@ -14,3 +14,8 @@ All code components along with informatory images are uploaded in Blog-1 folder
 All code components along with informatory images used for explaining Jupyter functionality are uploaded in Blog-2 folder
 
 
+**Blog-3 : Deep Dive in Machine Learning with Python: Part — III: Python Essentials**
+
+All code components along with informatory images used for explaining Python objects are uploaded in Blog-3 folder
+
+
