@@ -19,3 +19,7 @@ All code components along with informatory images used for explaining Jupyter fu
 All code components along with informatory images used for explaining Python objects are uploaded in Blog-3 folder
 
 
+**Blog-4 : Deep Dive in Machine Learning with Python: Part — IV: Guide to Python Lists**
+
+All code components along with informatory images used for explaining Python lists are uploaded in Blog-3 folder
+
