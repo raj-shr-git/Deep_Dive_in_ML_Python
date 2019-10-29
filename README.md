@@ -21,5 +21,10 @@ All code components along with informatory images used for explaining Python obj
 
 **Blog-4 : Deep Dive in Machine Learning with Python: Part — IV: Guide to Python Lists**
 
-All code components along with informatory images used for explaining Python lists are uploaded in Blog-3 folder
+All code components along with informatory images used for explaining Python lists are uploaded in Blog-4 folder
+
+
+**Blog-5 : Deep Dive in Machine Learning with Python: Part — V: Dictionaries and Tuples in Python**
+
+All code components along with informatory images used for explaining Tuple and Dictionary are uploaded in Blog-5 folder
 
