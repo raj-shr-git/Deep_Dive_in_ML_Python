@@ -28,3 +28,27 @@ All code components along with informatory images used for explaining Python lis
 
 All code components along with informatory images used for explaining Tuple and Dictionary are uploaded in Blog-5 folder
 
+
+**Blog-6 : Deep Dive in Machine Learning with Python: Part — VI: List Comprehensions and Functions in Python**
+
+All code components along with informatory images used for explaining List Comprehensions and Functions are uploaded in Blog-6 folder
+
+
+**Blog-7 : Deep Dive in Machine Learning with Python: Part — VII: All about Pandas**
+
+All code components along with informatory images used for explaining Pandas Fundamentals are uploaded in Blog-7 folder
+
+
+**Blog-8 : Deep Dive in Machine Learning with Python: Part — VIII: Several PANDAS operations**
+
+All code components along with informatory images used for explaining Pandas Intermediate Functions are uploaded in Blog-8 folder
+
+
+**Blog-9 : Deep Dive in Machine Learning with Python: Part — IX: Advanced PANDAS operations**
+
+All code components along with informatory images used for explaining Advance Pandas Operations are uploaded in Blog-9 folder
+
+
+**Blog-10 : Deep Dive in Machine Learning with Python: Part — X: Data Visualization using Pandas & Matplotlib**
+
+All code components along with informatory images used for explaining Data Visualization Part-I using Pandas and MatpltLib are uploaded in Blog-10 folder
