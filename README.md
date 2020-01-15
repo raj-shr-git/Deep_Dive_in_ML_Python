@@ -49,6 +49,6 @@ All code components along with informatory images used for explaining Pandas Int
 All code components along with informatory images used for explaining Advance Pandas Operations are uploaded in Blog-9 folder
 
 
-**Blog-10 : Deep Dive in Machine Learning with Python: Part — X: Data Visualization using Pandas & Matplotlib
+**Blog-10 : Deep Dive in Machine Learning with Python: Part — X: Data Visualization using Pandas & Matplotlib**
 
 All code components along with informatory images used for explaining Data Visualization Part-I using Pandas and MatpltLib are uploaded in Blog-10 folder
