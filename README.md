@@ -51,4 +51,14 @@ All code components along with informatory images used for explaining Advance Pa
 
 **Blog-10 : Deep Dive in Machine Learning with Python: Part — X: Data Visualization using Pandas & Matplotlib**
 
-All code components along with informatory images used for explaining Data Visualization Part-I using Pandas and MatpltLib are uploaded in Blog-10 folder
+All code components along with informatory images used for explaining Data Visualization Part-I using Pandas and MatpltLib are uploaded in Blog-10_11_12 folder
+
+
+**Blog-11 : Deep Dive in Machine Learning with Python: Part — XI: Data Visualization -- II**
+
+All code components along with informatory images used for explaining Data Visualization Part-II using Pandas, MatpltLib and Seaborn are uploaded in Blog-10_11_12 folder
+
+
+**Blog-12 : Deep Dive in Machine Learning with Python: Part — XII: Data Visualization -- III**
+
+All code components along with informatory images used for explaining Data Visualization Part-III using Pandas, MatpltLib and Seaborn are uploaded in Blog-10_11_12 folder
