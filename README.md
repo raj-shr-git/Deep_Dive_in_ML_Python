@@ -62,3 +62,8 @@ All code components along with informatory images used for explaining Data Visua
 **Blog-12 : Deep Dive in Machine Learning with Python: Part — XII: Data Visualization -- III**
 
 All code components along with informatory images used for explaining Data Visualization Part-III using Pandas, MatpltLib and Seaborn are uploaded in Blog-10_11_12 folder
+
+
+**Blog-13 : Deep Dive in Machine Learning with Python: Part — XIII: Converse with the data**
+
+All the informatory images used for explaining levels of data analysis are uploaded in Blog-13 folder
