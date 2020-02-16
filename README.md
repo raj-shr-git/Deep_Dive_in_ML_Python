@@ -67,3 +67,13 @@ All code components along with informatory images used for explaining Data Visua
 **Blog-13 : Deep Dive in Machine Learning with Python: Part — XIII: Converse with the data**
 
 All the informatory images used for explaining levels of data analysis are uploaded in Blog-13 folder
+
+
+**Blog-14 : Deep Dive in Machine Learning with Python: Part — XIV: Initial Data Analysis (IDA) with example**
+
+All the informatory images used for explaining the stages of IDA are uploaded in Blog-14_15 folder
+
+
+**Blog-15 : Deep Dive in Machine Learning with Python: Part — XV: Initial Data Analysis -- II**
+
+All the informatory images used for explaining the remaining stages of IDA are uploaded in Blog-14_15 folder
